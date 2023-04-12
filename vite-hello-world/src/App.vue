@@ -2,7 +2,7 @@
 export default{
   data(){
     return{
-      message:"hello vit!"
+      message:"hello vite!"
     }
   }
 }
